@@ -12,7 +12,7 @@
 </div>
 
 <h2 align="left">About me</h2>
-<p align="left">✨I'am currently pursuing B.tech at AKTU <br>📚 I'm currently learning Data Analyst , AI,ML <br>🎯 My interest also lies in Full Stack Development and Data Science<br>🎲Love to build new things and share knowlede</p>
+<p align="left">✨I'am currently pursuing B.tech at AKTU <br>📚 I'm currently learning Data Analyst , AI,ML <br>🎯 My interest also lies in Full Stack Development and Data Science<br>🎲Love to build new things and share knowledge</p>
 
 ###
 
